@@ -21,7 +21,7 @@ Utilizamos uma gama de projetos open-source para mover a 33:
 
 * [node.js] - evented I/O for the backend
 * [Express] - fast node.js network app framework [@tjholowaychuk]
-* [Gulp] - the streaming build system
+* [reactnative] - Learn once, write anywhere.
 * [react.js]  - A JavaScript library for building user interfaces
 
 ### Vem entrar pro time!
@@ -36,6 +36,7 @@ Aqui estão nossas vagas em aberto atualmente:
 
    [node.js]: <http://nodejs.org>
    [react.js]: <httt://reactjs.org>
+   [reactnative]: <https://reactnative.dev/>
    [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
    [express]: <http://expressjs.com>
    [Pessoa Desenvolvedora]: <https://bit.ly/33fullstack>
