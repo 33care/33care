@@ -20,7 +20,7 @@ Pra começarmos bem, um quote do nosso CEO e Founder, [Daniel Mendes](https://ww
 Utilizamos uma gama de projetos open-source para mover a 33:
 
 * [node.js] - evented I/O for the backend.
-* [react.js] - A JavaScript library for building user interfaces.
+* [reactjs] - A JavaScript library for building user interfaces.
 * [Express] - fast node.js network app framework [@tjholowaychuk].
 * [reactnative] - Learn once, write anywhere.
 
