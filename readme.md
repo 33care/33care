@@ -23,6 +23,8 @@ Utilizamos uma gama de projetos open-source para mover a 33:
 * [react.js] - A JavaScript library for building user interfaces.
 * [Express] - fast node.js network app framework [@tjholowaychuk].
 * [reactnative] - Learn once, write anywhere.
+* [Docker] - We help developers and development teams build and ship apps.
+* [Azure] - Code, collaborate, and ship securely—from anywhere.
 
 ### Vem entrar pro time!
 
@@ -50,11 +52,14 @@ Aqui estão nossas vagas em aberto atualmente:
    [node.js]: <http://nodejs.org>
    [reactnative]: <https://reactnative.dev/>
    [react.js]: <https://reactjs.org>
+   [Docker]: <https://www.docker.com/>
+   [Azure]: <https://azure.microsoft.com/>
    [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
    [express]: <http://expressjs.com>
    [Pessoa Desenvolvedora]: <https://bit.ly/33fullstack>
    [Vaga]: <https://bit.ly/vaga2>
    [Caju]: <https://www.caju.com.br/>
+   
 
    [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
    [PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
