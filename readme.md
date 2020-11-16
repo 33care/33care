@@ -41,12 +41,12 @@ Aqui estão nossas vagas em aberto atualmente:
 ### Benefícios de ser um Carer
 
 
-* Remuneração acima do mercado
-* Plano de Carreira
-* Plano de Saúde Unimed
-* [Caju] 
-* Horário Flexível
-* Possibilidade de Vesting
+* Remuneração acima do mercado;
+* Plano de Carreira;
+* Plano de Saúde Unimed;
+* [Caju];
+* Horário Flexível;
+* Possibilidade de Vesting.
 
 
    [node.js]: <http://nodejs.org>
