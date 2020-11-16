@@ -39,7 +39,7 @@ Aqui estão nossas vagas em aberto atualmente:
 * Remuneração acima do mercado
 * Plano de Carreira
 * Plano de Saúde Unimed
-* Caju 
+* [Caju] 
 * Horário Flexível
 * Possibilidade de Vesting
 
