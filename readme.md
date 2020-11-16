@@ -31,7 +31,17 @@ Aqui estão nossas vagas em aberto atualmente:
 | Vaga | Link |
 | ------ | ------ |
 | Pessoa Desenvolvedora Full-Stack (C# e React/React Native) | [Pessoa Desenvolvedora] |
-| Vaga   | [Vaga] |
+| Vaga   | [Vaga]
+
+### Benefícios de ser um Carer
+
+
+* Remuneração acima do mercado
+* Plano de Carreira
+* Plano de Saúde Unimed
+* Caju 
+* Horário Flexível
+* Possibilidade de Vesting
 
 
    [node.js]: <http://nodejs.org>
@@ -41,6 +51,7 @@ Aqui estão nossas vagas em aberto atualmente:
    [express]: <http://expressjs.com>
    [Pessoa Desenvolvedora]: <https://bit.ly/33fullstack>
    [Vaga]: <https://bit.ly/vaga2>
+   [Caju]: <https://www.caju.com.br/>
 
    [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
    [PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
