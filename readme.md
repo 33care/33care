@@ -33,10 +33,6 @@ Aqui estão nossas vagas em aberto atualmente:
 | Vagas | 
 | ------ | 
 | [Pessoa Desenvolvedora Full-Stack (C# e React/React Native)] | 
-| Vaga Exemplo | 
-| Vaga Exemplo | 
-| Vaga Exemplo | 
-| Vaga Exemplo | 
 
 ### Benefícios de ser um Carer
 
