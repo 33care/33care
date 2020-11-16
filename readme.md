@@ -20,7 +20,7 @@ Pra começarmos bem, um quote do nosso CEO e Founder, [Daniel Mendes](https://ww
 Utilizamos uma gama de projetos open-source para mover a 33:
 
 * [node.js] - evented I/O for the backend.
-* [reactjs] - A JavaScript library for building user interfaces.
+* [react.js](httt://reactjs.org) - A JavaScript library for building user interfaces.
 * [Express] - fast node.js network app framework [@tjholowaychuk].
 * [reactnative] - Learn once, write anywhere.
 
@@ -35,7 +35,6 @@ Aqui estão nossas vagas em aberto atualmente:
 
 
    [node.js]: <http://nodejs.org>
-   [reactjs]: <httt://reactjs.org>
    [reactnative]: <https://reactnative.dev/>
    [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
    [express]: <http://expressjs.com>
