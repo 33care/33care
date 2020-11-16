@@ -30,13 +30,13 @@ Utilizamos uma gama de projetos open-source para mover a 33:
 
 Aqui estão nossas vagas em aberto atualmente:
 
-| Vaga | Link |
-| ------ | ------ |
-| Pessoa Desenvolvedora Full-Stack (C# e React/React Native) | [Pessoa Desenvolvedora] |
-| Exemplo | [Vaga] |
-| Exemplo | [Vaga] |
-| Exemplo | [Vaga] |
-| Exemplo | [Vaga] |
+| Vaga | 
+| ------ | 
+| [Pessoa Desenvolvedora Full-Stack (C# e React/React Native)] | 
+| Exemplo | 
+| Exemplo | 
+| Exemplo | 
+| Exemplo | 
 
 ### Benefícios de ser um Carer
 
@@ -56,7 +56,7 @@ Aqui estão nossas vagas em aberto atualmente:
    [Azure]: <https://azure.microsoft.com/>
    [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
    [express]: <http://expressjs.com>
-   [Pessoa Desenvolvedora]: <https://bit.ly/33fullstack>
+   [Pessoa Desenvolvedora Full-Stack (C# e React/React Native)]: <https://bit.ly/33fullstack>
    [Vaga]: <https://bit.ly/vaga2>
    [Caju]: <https://www.caju.com.br/>
    
