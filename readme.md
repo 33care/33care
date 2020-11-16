@@ -30,12 +30,12 @@ Aqui estão nossas vagas em aberto atualmente:
 
 | Vaga | Link |
 | ------ | ------ |
-| Pessoa Desenvolvoderoa Full-Stack (C# e React/React Native) | [Pessoa Desenvolvedora] |
+| Pessoa Desenvolvedora Full-Stack (C# e React/React Native) | [Pessoa Desenvolvedora] |
 | Vaga   | [Vaga] |
 
 
    [node.js]: <http://nodejs.org>
-   [react.js]: <httt://reactjs.org>
+   [reactjs]: <httt://reactjs.org>
    [reactnative]: <https://reactnative.dev/>
    [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
    [express]: <http://expressjs.com>
