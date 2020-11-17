@@ -20,7 +20,7 @@ Pra começarmos bem, um quote do nosso CEO e Founder, [Daniel Mendes](https://ww
 Utilizamos uma gama de projetos open-source para mover a 33:
 
 * [node.js] - evented I/O for the backend.
-* [.NET] - NET is a free, cross-platform, open source developer platform for building many different types of applications.
+* [.NET] - .NET is a free, cross-platform, open source developer platform for building many different types of applications.
 * [react.js] - A JavaScript library for building user interfaces.
 * [Express] - fast node.js network app framework [@tjholowaychuk].
 * [reactnative] - Learn once, write anywhere.
