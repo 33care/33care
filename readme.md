@@ -33,6 +33,7 @@ Aqui estão nossas vagas em aberto atualmente:
 | Vagas | 
 | ------ | 
 | [Pessoa Desenvolvedora Full-Stack (C# e React/React Native)] | 
+| [Designer UI/UX] |
 | Em breve teremos mais posições aqui (: |
 
 ### Benefícios de ser um Carer
@@ -57,13 +58,4 @@ Aqui estão nossas vagas em aberto atualmente:
    
    
    [Pessoa Desenvolvedora Full-Stack (C# e React/React Native)]: <https://bit.ly/33fullstack>
-   [Vaga]: <https://bit.ly/vaga2>
-   
-   
-
-   [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
-   [PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
-   [PlGd]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
-   [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
-   [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
-   [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
+   [Designer UI/UX]: <https://bit.ly/vaga2>
