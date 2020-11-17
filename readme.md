@@ -33,7 +33,6 @@ Aqui estão nossas vagas em aberto atualmente:
 | Vagas | 
 | ------ | 
 | [Pessoa Desenvolvedora Full-Stack (C# e React/React Native)] | 
-| [Designer UI/UX] |
 | Em breve teremos mais posições aqui (: |
 
 ### Benefícios de ser um Carer
