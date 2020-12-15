@@ -1,7 +1,5 @@
-[![33 Care](https://i.imgur.com/mBKhzbq.png)](https://33care.com.br)
-
 <p align="center">
-  <img width="460" height="300" src="(https://i.imgur.com/mBKhzbq.png">
+   [![33 Care](https://i.imgur.com/mBKhzbq.png)](https://33care.com.br)
 </p>
 
 # 33 Careers
