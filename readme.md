@@ -37,8 +37,6 @@ Esses valores vão guiar quem e como contratamos, e isso irá guiar o que fazemo
 
 **Empresa aberta, no bullshit-** Falando em discordar. É OK ter uma opinião diferente sobre as coisas. Quanto temos, falamos. Respeitamos uns aos outros, deixamos políticas e bias na porta, e falamos abertamente sobre tudo que importa.
 
-**Be the change-** Ghandi had it right: be the change you seek in the world. Be resourceful, be determined, be inspiring and be proud when things improve for the better.
-
 **Seja a mudança-** Ghandi aceretou: seja a mudança que você busca no mundo. Seja perspicaz, determinado, inspirador e orgulhoso quando as coisas estão melhorando.
 
 **Ethics above all-** we are working in a field with the power to alter narratives and change our industry. With great power comes great responsibility. Amongst the excitement of developing something new, we pause to consider whether anything we make could end up hurting someone else, and how can we make sure it doesn’t.
