@@ -39,8 +39,6 @@ Esses valores vão guiar quem e como contratamos, e isso irá guiar o que fazemo
 
 **Seja a mudança-** Ghandi aceretou: seja a mudança que você busca no mundo. Seja perspicaz, determinado, inspirador e orgulhoso quando as coisas estão melhorando.
 
-**Ethics above all-** we are working in a field with the power to alter narratives and change our industry. With great power comes great responsibility. Amongst the excitement of developing something new, we pause to consider whether anything we make could end up hurting someone else, and how can we make sure it doesn’t.
-
 **Ética acima de tudo-** Estamos trabalhando numa área que tem o poder de alterar narrativas e mudar a indústria. Com um grande poder vêm também grandes responsabilidades. No meio da excitação de desenvolver algo novo, pausamos para considerar se algo que estamos fazendo pode acabar prejudicando outras pessoas, e como podemos nos certificar de que isso não aconteça.
 
 Se você leu tudo isso e de alguma forma se identificou, nos envie sua aplicação para uma das posições listadas abaixo!
