@@ -39,7 +39,7 @@ Esses valores vão guiar **quem** e **como** contratamos, que por sua vez irá g
 
 **Seja a mudança-** Ghandi estava certo: seja a mudança que você busca no mundo. Seja perspicaz, determinado, inspirador e orgulhoso quando as coisas estão melhorando.
 
-**Ética acima de tudo-** Estamos trabalhando numa área que tem o poder de alterar narrativas e mudar a indústria. Com um grande poder vêm também grandes responsabilidades. No meio da excitação de desenvolver algo novo, pausamos para considerar e entender se algo que estamos fazendo pode acabar prejudicando outras pessoas, e como nós podemos nos certificar de que isso não aconteça.
+**Ética acima de tudo-** Estamos inovando em uma área que têm o poder de alterar narrativas e mudar a indústria. Com um grande poder vêm também grandes responsabilidades. No meio da excitação de desenvolver algo novo, pausamos para considerar e entender se algo que estamos fazendo pode acabar prejudicando outras pessoas, e como nós podemos nos certificar de que isso não aconteça.
 
 Se você leu tudo isso e de alguma forma se identificou, nos envie sua aplicação para uma das posições listadas abaixo!
 
