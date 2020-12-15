@@ -29,9 +29,9 @@ Utilizamos uma gama de projetos open-source para mover a 33:
 
 ### Nossos valores 
 
-Ser uma startup quer dizer que podemos construir a empresa dos nossos sonhos do começo. Pensamos muito sobre isso e sobre como queremos chegar lá. Tudo começa com as coisas que você valoriza.
+Ser uma **startup** quer dizer que podemos construir a empresa dos nossos sonhos do **começo.** Pensamos muito sobre isso e sobre como queremos chegar lá. Tudo começa com as coisas que você valoriza.
 
-Esses valores vão guiar quem e como contratamos, e isso irá guiar o que fazemos e como nos relacionamos com o resto do mundo:
+Esses valores vão guiar **quem** e **como** contratamos, que por sua vez irá guiar **o que fazemos** e como nos relacionamos com o **resto do mundo:**
 
 **Jogue com um time, aja como uma família-** Grandes coisas são alcançadas por grandes times. Trabalhar juntos nos une além de apenas um lugar e uma tarefa. Discordaremos às vezes. Às vezes discordaremos muito. Mas acreditamos no trabalho em equipe e ajudamos uns aos outros respeitando a plurarilade de opiniões.
 
