@@ -1,5 +1,9 @@
 [![33 Care](https://i.imgur.com/mBKhzbq.png)](https://33care.com.br)
 
+<p align="center">
+  <img width="460" height="300" src="(https://i.imgur.com/mBKhzbq.png">
+</p>
+
 # 33 Careers
 
 Seja bem-vind@ a nossa página de carreiras! Aqui voce vai encontrar:
