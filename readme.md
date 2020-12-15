@@ -27,6 +27,26 @@ Utilizamos uma gama de projetos open-source para mover a 33:
 * [Docker] - We help developers and development teams build and ship apps.
 * [Azure] - Code, collaborate, and ship securely—from anywhere.
 
+### Nossos valores 
+
+Ser uma startup quer dizer que podemos construir a empresa dos nossos sonhos do começo. Pensamos muito sobre isso e sobre como queremos chegar lá. Tudo começa com as coisas que você valoriza.
+
+Esses valores vão guiar quem e como contratamos, e isso irá guiar o que fazemos e como nos relacionamos com o resto do mundo:
+
+**Jogue com um time, aja como uma família-** Grandes coisas são alcançadas por grandes times. Trabalhar juntos nos une além de apenas um lugar e uma tarefa. Discordaremos às vezes, às vezes discordaremos muito. Mas acreditamos e ajudamos uns aos outros, sempre teremos o apoio uns dos outros.
+
+**Empresa aberta, no bullshit-** Falando em discordar. É OK ter uma opinião diferente sobre as coisas. Quanto temos, falamos. Respeitamos uns aos outros, deixamos políticas e bias na porta, e falamos abertamente sobre tudo que importa.
+
+**Be the change-** Ghandi had it right: be the change you seek in the world. Be resourceful, be determined, be inspiring and be proud when things improve for the better.
+
+**Seja a mudança-** Ghandi aceretou: seja a mudança que você busca no mundo. Seja perspicaz, determinado, inspirador e orgulhoso quando as coisas estão melhorando.
+
+**Ethics above all-** we are working in a field with the power to alter narratives and change our industry. With great power comes great responsibility. Amongst the excitement of developing something new, we pause to consider whether anything we make could end up hurting someone else, and how can we make sure it doesn’t.
+
+**Ética acima de tudo-** Estamos trabalhando numa área que tem o poder de alterar narrativas e mudar a indústria. Com um grande poder vêm também grandes responsabilidades. No meio da excitação de desenvolver algo novo, pausamos para considerar se algo que estamos fazendo pode acabar prejudicando outras pessoas, e como podemos nos certificar de que isso não aconteça.
+
+Se você leu tudo isso e de alguma forma se identificou, nos envie sua aplicação para uma das posições listadas abaixo!
+
 ### Vem entrar pro time!
 
 Aqui estão nossas vagas em aberto atualmente:
