@@ -33,13 +33,13 @@ Ser uma startup quer dizer que podemos construir a empresa dos nossos sonhos do 
 
 Esses valores vão guiar quem e como contratamos, e isso irá guiar o que fazemos e como nos relacionamos com o resto do mundo:
 
-**Jogue com um time, aja como uma família-** Grandes coisas são alcançadas por grandes times. Trabalhar juntos nos une além de apenas um lugar e uma tarefa. Discordaremos às vezes, às vezes discordaremos muito. Mas acreditamos e ajudamos uns aos outros, sempre teremos o apoio uns dos outros.
+**Jogue com um time, aja como uma família-** Grandes coisas são alcançadas por grandes times. Trabalhar juntos nos une além de apenas um lugar e uma tarefa. Discordaremos às vezes. Às vezes discordaremos muito. Mas acreditamos no trabalho em equipe e ajudamos uns aos outros respeitando a plurarilade de opiniões.
 
-**Empresa aberta, no bullshit-** Falando em discordar. É OK ter uma opinião diferente sobre as coisas. Quanto temos, falamos. Respeitamos uns aos outros, deixamos políticas e bias na porta, e falamos abertamente sobre tudo que importa.
+**Empresa aberta, no bullshit-** Falando em discordar. É OK ter uma opinião diferente sobre as coisas. Quando temos, falamos. Respeitamos uns aos outros, deixamos políticas e bias na porta, e falamos abertamente sobre tudo que importa. Acreditamos no mínimo de burocracia possivel, para termos flexibilidade para inovar e fazer o que de fato é importante.
 
 **Seja a mudança-** Ghandi estava certo: seja a mudança que você busca no mundo. Seja perspicaz, determinado, inspirador e orgulhoso quando as coisas estão melhorando.
 
-**Ética acima de tudo-** Estamos trabalhando numa área que tem o poder de alterar narrativas e mudar a indústria. Com um grande poder vêm também grandes responsabilidades. No meio da excitação de desenvolver algo novo, pausamos para considerar se algo que estamos fazendo pode acabar prejudicando outras pessoas, e como podemos nos certificar de que isso não aconteça.
+**Ética acima de tudo-** Estamos trabalhando numa área que tem o poder de alterar narrativas e mudar a indústria. Com um grande poder vêm também grandes responsabilidades. No meio da excitação de desenvolver algo novo, pausamos para considerar e entender se algo que estamos fazendo pode acabar prejudicando outras pessoas, e como nós podemos nos certificar de que isso não aconteça.
 
 Se você leu tudo isso e de alguma forma se identificou, nos envie sua aplicação para uma das posições listadas abaixo!
 
