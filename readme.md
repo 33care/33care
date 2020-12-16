@@ -36,7 +36,7 @@ Esses valores vão guiar **quem** e **como** contratamos, que por sua vez irá g
 
 **Jogue como um time-** Grandes coisas são alcançadas por grandes times. Trabalhar juntos nos une além de apenas um lugar e uma tarefa. Discordaremos às vezes. Às vezes discordaremos muito. Mas acreditamos no trabalho em equipe e ajudamos uns aos outros respeitando a pluralidade de opiniões.
 
-**Empresa aberta, no bullshit-** Falando em discordar. É OK ter uma opinião diferente sobre as coisas. Quando temos, falamos. Respeitamos uns aos outros, deixamos políticas e bias na porta, e falamos abertamente sobre tudo que importa. Acreditamos no mínimo de burocracia possivel, para termos flexibilidade para inovar e fazer o que de fato é importante.
+**No bullshit-** Falando em discordar. É OK ter uma opinião diferente sobre as coisas. Quando temos, falamos. Respeitamos uns aos outros, deixamos políticas e bias na porta, e falamos abertamente sobre tudo que importa. Acreditamos no mínimo de burocracia possivel, para termos flexibilidade para inovar e fazer o que de fato é importante.
 
 **Seja a mudança-** Ghandi estava certo: seja a mudança que você busca no mundo. Seja perspicaz, determinado, inspirador e orgulhoso quando as coisas estão melhorando.
 
