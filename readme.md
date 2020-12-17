@@ -30,7 +30,7 @@ Utilizamos uma gama de projetos open-source para mover a 33:
 
 ### Nossos valores ⭐
 
-Ser uma **startup** quer dizer que podemos construir a empresa dos nossos sonhos desde a **concepção.** Refletimos muito sobre isso e sobre como queremos chegar lá e entendemos que tudo começa com as coisas que você valoriza.
+Ser uma **startup** quer dizer que podemos construir a empresa dos nossos sonhos desde a **concepção.** Refletimos muito sobre isso e sobre como queremos chegar lá. Entendemos que tudo começa com as coisas que você valoriza.
 
 Esses valores vão guiar **quem** e **como** contratamos, que por sua vez irá guiar **o que fazemos** e como nos relacionamos com o **resto do mundo:**
 
