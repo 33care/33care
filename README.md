@@ -20,7 +20,6 @@ Pra começarmos bem, um quote do nosso CEO e Founder, [Daniel Mendes](https://ww
 
 Utilizamos uma gama de projetos open-source para mover a 33:
 
-* [node.js] - evented I/O for the backend.
 * [.NET Core] - .NET is a free, cross-platform, open source developer platform for building many different types of applications.
 * [react.js] - A JavaScript library for building user interfaces.
 * [Express] - fast node.js network app framework [@tjholowaychuk].
@@ -64,7 +63,6 @@ Aqui estão nossas vagas em aberto atualmente:
 * Possibilidade de Vesting.
 
 
-   [node.js]: <http://nodejs.org>
    [reactnative]: <https://reactnative.dev/>
    [react.js]: <https://reactjs.org>
    [.NET Core]: <https://dotnet.microsoft.com/>
