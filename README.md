@@ -18,11 +18,10 @@ Pra começarmos bem, um quote do nosso CEO e Founder, [Daniel Mendes](https://ww
 
 ### Tech-stack 💻
 
-Utilizamos uma gama de projetos open-source para mover a 33:
+Utilizamos uma gama de projetos open-source e tecnologias para mover a 33:
 
 * [.NET Core] - .NET is a free, cross-platform, open source developer platform for building many different types of applications.
 * [react.js] - A JavaScript library for building user interfaces.
-* [Express] - fast node.js network app framework [@tjholowaychuk].
 * [reactnative] - Learn once, write anywhere.
 * [Docker] - We help developers and development teams build and ship apps.
 * [Azure] - Code, collaborate, and ship securely—from anywhere.
@@ -69,7 +68,6 @@ Aqui estão nossas vagas em aberto atualmente:
    [Docker]: <https://www.docker.com/>
    [Azure]: <https://azure.microsoft.com/>
    [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
-   [express]: <http://expressjs.com>
    [Caju]: <https://www.caju.com.br/?utm-source=githubvagas33care>
    
    
