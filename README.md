@@ -48,7 +48,7 @@ Aqui estão nossas vagas em aberto atualmente:
 
 | Vagas | 
 | ------ | 
-| [Pessoa Desenvolvedora Full-Stack (C# e React/React Native)] | 
+| [Pessoa Desenvolvedora Back-End (.NET Core)] | 
 | Em breve teremos mais posições aqui (: |
 
 ### Benefícios de ser um Carer 🤑
@@ -71,5 +71,5 @@ Aqui estão nossas vagas em aberto atualmente:
    [Caju]: <https://www.caju.com.br/?utm-source=githubvagas33care>
    
    
-   [Pessoa Desenvolvedora Full-Stack (C# e React/React Native)]: <https://www.linkedin.com/feed/update/urn:li:activity:6757350099795361792/>
+   [Pessoa Desenvolvedora Back-End (.NET Core)]: <https://www.linkedin.com/jobs/view/2367007944/?refId=43jCi8LWTpmR2%2BoCKzFEbQ%3D%3D>
    [Designer UI/UX]: <https://bit.ly/vaga2>
