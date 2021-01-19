@@ -71,5 +71,5 @@ Aqui estão nossas vagas em aberto atualmente:
    [Caju]: <https://www.caju.com.br/?utm-source=githubvagas33care>
    
    
-   [Pessoa Desenvolvedora Full-Stack (C# e React/React Native)]: <https://talentos.33care.com.br>
+   [Pessoa Desenvolvedora Full-Stack (C# e React/React Native)]: <https://www.linkedin.com/feed/update/urn:li:activity:6757350099795361792/>
    [Designer UI/UX]: <https://bit.ly/vaga2>
