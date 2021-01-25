@@ -48,7 +48,6 @@ Aqui estão nossas vagas em aberto atualmente:
 
 | Vagas | 
 | ------ | 
-| [Pessoa Desenvolvedora Back-End (.NET Core)] | 
 | Em breve teremos mais posições aqui (: |
 
 ### Benefícios de ser um Carer 🤑
